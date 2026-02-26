@@ -175,10 +175,8 @@ Results are also browsable in the web UI under **History**.
 ## Author
 
 **mnt0x**
-Built for professional penetration testing and bug bounty hunting.
 
+Built for professional penetration testing and bug bounty hunting.
 ---
 
-## License
 
-MIT License — see [LICENSE](LICENSE) for details.
